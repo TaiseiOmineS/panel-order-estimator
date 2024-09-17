@@ -3,7 +3,7 @@ from manga109utils import Manga109Dataset
 
 import order_estimator
 
-four_panel_list = ["YouchienBoueigumi", "Akuhamu"]
+four_panel_list = ["YouchienBoueigumi", "Akuhamu", "OL_Lunch", "TetsuSan"]
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
